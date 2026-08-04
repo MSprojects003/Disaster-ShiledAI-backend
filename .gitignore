@@ -53,7 +53,7 @@ models_saved/*.pkl
 # These folders often contain large datasets and downloaded files that should not be committed to Git.
 data/
 documentation/
-models_saved/
+
 !models_saved/.gitkeep
 
 # OS

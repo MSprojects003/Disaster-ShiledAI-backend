@@ -1,0 +1,15 @@
+{
+  "features": [
+    "water_level_m",
+    "rainfall_mm",
+    "road_vulnerability",
+    "elevation_m",
+    "district_risk"
+  ],
+  "class_names": [
+    "Safe",
+    "Impassable",
+    "Blocked"
+  ],
+  "trained_date": "2026-07-18T02:41:22.746548"
+}

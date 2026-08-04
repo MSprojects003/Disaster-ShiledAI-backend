@@ -1,0 +1,31 @@
+{
+  "features": [
+    "water_level_m",
+    "rainfall_mm",
+    "temperature_c",
+    "humidity_percent",
+    "wind_speed_kmh",
+    "pressure_hpa"
+  ],
+  "n_samples": 1459,
+  "n_features": 6,
+  "target_mapping": {
+    "Low": 0,
+    "Medium": 1,
+    "High": 2,
+    "Critical": 3
+  },
+  "reverse_mapping": {
+    "0": "Low",
+    "1": "Medium",
+    "2": "High",
+    "3": "Critical"
+  },
+  "classes_present": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "trained_date": "2026-07-17T02:16:59.981787"
+}
